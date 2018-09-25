@@ -19,3 +19,4 @@ console.log(n,o);
 
 const {sobrenome,bemHumorada = true}=pessoa;
 console.log(sobrenome,bemHumorada);
+
