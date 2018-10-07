@@ -7,5 +7,5 @@ console.log(n1, n3, n5, n6)
 //no exemplo abaixo ele tem um array composto por um otru array interno
 //onde apenas se´ra usado o segundo elemento
 //
-const[, [, nota]] = [1, 0, 0], [2, 6, 8]
+const[, [, nota,], ] = [[1, 0, 0], [2, 6, 8]]
 console.log(nota)
